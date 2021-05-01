@@ -3,6 +3,7 @@
     "description": "demo",
     "type": "project",
     "minimum-stability": "dev",
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
