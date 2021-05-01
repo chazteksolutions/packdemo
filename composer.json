@@ -1,0 +1,20 @@
+{
+    "name": "chaztek/activity",
+    "description": "demo",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hb\\activity\\": "src"
+        }
+    },
+    "extra": {
+        "Laravel": {
+            "providers": [
+                "hb\\activity\\activityServiceProvider"
+            ]
+        }
+    }
+
+}
